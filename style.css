@@ -1,6 +1,8 @@
 p{
     color: red;
+    background-color: aqua;
 }
 body{
+    color: green;
     background-color: red;
 }
