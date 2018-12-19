@@ -2,3 +2,7 @@ p{
     color: red;
     background-color: #fff;
 }
+body{
+    background-color: blue;
+    box-sizing: content-box;
+}
